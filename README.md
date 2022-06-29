@@ -1,1 +1,24 @@
-# ISO-IEC-7064-MOD-97-10
+# iso-iec-7064-mod-97-10 (unfinished)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
